@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597609239793",
+    "project_id": "wellnesswave-e4628",
+    "storage_bucket": "wellnesswave-e4628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597609239793:android:c1b6b7a722e9a96c648550",
+        "android_client_info": {
+          "package_name": "com.example.wellness_wave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKV2tZQjMXGMdmrgN8LtkTS0AFu-KA64E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
